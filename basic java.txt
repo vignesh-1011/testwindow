@@ -1,0 +1,82 @@
+1.What is Java?
+Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.
+ 
+2.important features of the Java language is given below.
+Java Features
+Simple
+Object-Oriented
+Portable
+Platform independent
+Secured
+Robust
+Architecture neutral
+Interpreted
+High Performance
+Multithreaded
+Distributed
+Dynamic
+
+3.Types of Variables
+There are three types of variables in Java
+:
+
+local variable
+instance variable
+static variable
+             Example:
+public class A  
+{  
+    static int m=100;//static variable  
+    void method()  
+    {    
+        int n=90;//local variable    
+    }  
+    public static void main(String args[])  
+    {  
+        int data=50;//instance variable    
+    }  
+}//end of class 
+           4.Data Types in Java
+Primitive data types: The primitive data types include boolean, char, byte, short, int, long, float and double.
+Non-primitive data types: The non-primitive data types include Classes, Interfaces, and Arrays.
+                                            5.operators
+
+OperatorType	                              Category	                             Precedence
+
+Unary	                                      postfix	                                 expr++ expr--
+                                               prefix	                             ++expr --expr +expr -expr ~ !
+
+
+Arithmetic	                          multiplicative	                         * / %
+                                              additive	                                    + -
+                                           Shift	shift	                           << >> >>>
+
+ 
+Relational	                             comparison                 	< > <= >= instanceof
+                                                equality	                          == !=
+
+
+Bitwise	                                     bitwise AND	                             &
+                                            bitwise  exclusive OR	                                                                 
+                                           bitwise inclusive OR	                             |
+
+
+
+Logical	                                     logical AND	                             &&
+ 	                                      Logical OR                                     ||
+
+
+Ternary	                                        ternary	                                     ? :
+
+
+Assignment	                              assignment	           = += -= *= /= %= &= ^= |= <<= >>= >>>=
+
+
+
+
+
+
+ java keywords are 48
+       example char,abstract,void,null
+
+  
